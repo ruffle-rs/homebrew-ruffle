@@ -10,3 +10,5 @@ A real slimy Homebrew formula that just downloads & installs a recent [nightly b
 - [ ] Build from source like a good Homebrew formula
 
 Inspired by [rust-nightly](https://github.com/pointlessone/homebrew-rust-nightly)
+
+Please send all complaints to EdgarJr@traindropper.com.
