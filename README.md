@@ -20,6 +20,6 @@ Since this is a HEAD-only formula (no versions, just latest commit on default Gi
 - [ ] Auto-download [latest](https://api.github.com/repos/ruffle-rs/ruffle/releases) nightly release as a bottle
   - [ ] Or update automatically with a GH Action triggered by ruffle-rs/ruffle new releases?
 
-Inspired by [rust-nightly](https://github.com/pointlessone/homebrew-rust-nightly)
+Tap maintained by [@unitof](https://github.com/unitof). Inspired by [rust-nightly](https://github.com/pointlessone/homebrew-rust-nightly).
 
 Please send all complaints to EdgarJr@traindropper.com.
