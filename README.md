@@ -3,7 +3,7 @@ A Homebrew tap for the latest (`master`) version of Ruffle. As edgy as it gets.
 ## Install
 
 ```
-brew install unitof/ruffle/ruffle
+brew install ruffle-rs/ruffle/ruffle
 ```
 
 ## Update
