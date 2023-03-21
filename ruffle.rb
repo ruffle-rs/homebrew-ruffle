@@ -5,6 +5,7 @@ class Ruffle < Formula
   license "MIT"
 
   depends_on "rust" => :build
+  depends_on "openjdk" => :build
 
   def install
     system "cargo", "build", "--package=ruffle_desktop"
